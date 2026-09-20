@@ -1,16 +1,20 @@
 # Pixel Polish
 
-A local-first image optimizer focused on practical web assets.
-
-## MVP
-- Drag/drop images
-- Resize by max width
-- JPEG/WebP compression
-- Before/after size comparison
-- Batch download, entirely in-browser
-
-## Monetization experiment
-Free local compression; paid hosted batch jobs, preset libraries, API access, team asset queues, and automatic website-image audits later.
+A local browser image optimizer with resizing, quality controls and download.
 
 ## Run
-Open `index.html`.
+
+Open `index.html` in a modern browser.
+
+## Donation
+
+Donations are optional and help fund design, testing, hosting and future improvements.
+
+| Network | Wallet |
+| --- | --- |
+| BTC | `bc1qghmvawynutlxlzs7hcszwrpmv6a8gjz0g42m5f` |
+| ETH — Ethereum | `0xB2C155514AD2c1383346715B92FcF123A1E1CA3f` |
+| USDT — TRC20 | `TLTPdYMeRfJgaTtVXcpFTF7m5vjJDXp1Uq` |
+| SOL — Solana | `iCi28FGDExvy8tuHw2MP63w26A3uQYHSD1vVqwUjkBg` |
+
+Always verify the asset and network before sending.
